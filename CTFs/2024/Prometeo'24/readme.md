@@ -11,7 +11,7 @@ Welcome to the event, here take this CTF{w3lc0me_t0_th3_e4ent}
 
 ```
 
-1. Kittey
+### Kittey
    
 ![catdog](https://github.com/aashishsec/WriteUps/assets/65489287/44abafdf-4fe5-4c37-a25b-98e445922c32)
 
@@ -24,7 +24,7 @@ CTF{cut3_pupp13_@nd_k1tt3n}
 ## Web
 ## Crypto
 ## Reverse 
-- C for yourself
+### C for yourself
 ```bash
 #include <stdio.h>
 #include <string.h>
@@ -54,8 +54,10 @@ A source code file contain flag
 ```bash
 CTF{i_t0ld_u_it_w@s_her3}
 ```
-- pyRev
-  Give two file one python code use to encrypt the flag and other is encrypted flag
+
+### pyRev
+
+- Give two file one python code use to encrypt the flag and other is encrypted flag
   Encrypted Py Program
  ```bash
   def process_flag(flag):
