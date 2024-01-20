@@ -1,5 +1,11 @@
 # HacksCTF My Approach Notes
 
+![Screenshot 2024-01-20 100446](https://github.com/aashishsec/WriteUps/assets/65489287/3963fe2d-af36-492b-8a72-ed9bcdefdad9)
+
+
+![image](https://github.com/aashishsec/WriteUps/assets/65489287/f5dbe6f0-c089-429c-8a32-cc3fd7732c56)
+
+---
 ## Cryptography
 
 ## oh -no
