@@ -2,6 +2,44 @@
 
 ## Cryptography
 
+## oh -no
+![image](https://github.com/aashishsec/WriteUps/assets/65489287/4d37e152-6cff-46d0-b471-7132368e2371)
+
+##  credit-stealer 
+```bash
+
+
+In the Roman empire during the WW2, King Cipher had three princes named 1, 2, and 3. Third one was the most notorious one amongst all. So he went alone into the dark forest. The musketeers ran to save him for the creatures that lived within but sadly they were too late to save him. Prince 1,2 set to free their brother. They arrived the building but it was highly secured by locks of different types. Using his wizardry, 2 solved the first 3. Next 3 were solved by 1,2,2 respectively. A final lock was asked in which was somehow set to GDPYMXBKRYG. A-B both solved this one together and got their brother back home, but surprisingly soldiers U-W took all the credit. Can you find the flag to help the rightful people get awarded.
+
+bro really tried hard to make up a story :(
+
+```
+###  story-2 
+```bash
+
+
+In the magical city of valorville in Russia, Prince, the Gunner and his sidekicks, Mr. a and Mr. b, celebrated their valor with 10, 2, 3, 2 medals each for their courage and sacrifices. While they were away bravely fighting, the wicked witch kidnapped the princess, prompting Prince Gunner to seek Merlin's help. The arcane rune of Artyom mysteriously signals to the spot 1010,1010. Our hero faces a puzzling quest to uncover the princess's location, can you help him to find the district in which is being held captive.
+
+these stories are really getting better huh, also keep the answer in lowercaps enclosed within hacks{}.
+
+```
+
+### enigma
+something is hidden between the notes, find it.
+
+### figurines
+
+what does this lead to? 1RdzSmugPMttCMyEMHnGjAy77EfX9WLb9LlBX6j-awSo/edit. Hints: firstly open google docs
+
+###  breakingbad
+
+hows this related to a ctf?. Whats the last host ip for subnet: 10.50.111.222/12
+
+### inner with Salsa (Dance)
+
+Alejandro's Salsa date with Emily took an unexpected turn when she vanished mid-dance, leaving behind a phone book. Determined to find her, Jason delves into the entries, spam calls all the contact to bring him closer to the girl who disappeared without a trace.
+
+
 ### Perfect Square
 - It contains a lot of base 64 encoding so i used this python program. For extracting flag.
 - Program:
