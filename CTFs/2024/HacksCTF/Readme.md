@@ -80,7 +80,7 @@ if __name__ == "__main__":
 ```bash
 hacks{s0_many_64s}
 ```
-
+---
 ## MISC
 
 ### magik-magik 
@@ -115,6 +115,7 @@ file_challenge.cad: XZ compressed data, checksum CRC64
   ```bash
   The flag is : hacks{M3t@dAt&_man!pu(aTi*n}
   ```
+  ---
 ## OSINT
 
 ### whendidiarrive
@@ -143,11 +144,11 @@ can you find out the river located nearby this shop...Enclose it within hacks{}
 ![chips](https://github.com/aashishsec/WriteUps/assets/65489287/c12c43cc-addd-4fe6-a92a-db08153a48c5)
 
 
-
+---
 ## Forensics
-
+---
 ## Reverse
-
+---
 ## Pwn
 
 ### jarrrrrr
