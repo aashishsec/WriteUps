@@ -36,7 +36,11 @@ file_challenge.cad: XZ compressed data, checksum CRC64
   ```bash
   The flag is : hacks{M3t@dAt&_man!pu(aTi*n}
   ```
+## OSINT
 
+## Forensics
+
+## Reverse
 
 ## Pwn
 
@@ -56,7 +60,7 @@ connect using netcat on the below server
 
 - This challange is all about how fast we are at solving the math.
 - So i used this python program to connect and solve the challange.
-  ```python
+```python
   import re
 import socket
 
@@ -94,7 +98,8 @@ with socket.create_connection((host, port)) as s:
 
   ```
   output:
-  ```bash
+  
+ ```bash
 Received from server: Solve: 54 * 4
 
 Result after 'Solve:': 216
@@ -691,8 +696,3 @@ Great job! You're well on your way to becoming a Math champion.
 No 'Solve:' pattern found in the received message.
   ```
 
-## OSINT
-
-## Forensics
-
-## Reverse
