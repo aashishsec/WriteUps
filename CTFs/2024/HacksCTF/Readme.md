@@ -13,7 +13,7 @@
 
 - file link : https://github.com/aashishsec/WriteUps/blob/main/CTFs/2024/HacksCTF/files/referral_letter.txt
   
-Added after the challange:
+Added after the ctf completed:
 
 - go to this website to decode the test (https://www.spammimic.com/decode.shtml)
 - Flag is
