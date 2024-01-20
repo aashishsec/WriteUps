@@ -38,6 +38,19 @@ file_challenge.cad: XZ compressed data, checksum CRC64
   ```
 ## OSINT
 
+### whendidiarrive
+
+What was the last (Arrival) location of this container?
+
+### guesswhereami
+
+Find the precise location. 202.139.14.137. hint: use shodan
+
+###  india
+
+can you find out the river located nearby this shop...Enclose it within hacks{}
+
+
 ## Forensics
 
 ## Reverse
