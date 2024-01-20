@@ -10,6 +10,13 @@
 
 ## oh -no
 ![image](https://github.com/aashishsec/WriteUps/assets/65489287/4d37e152-6cff-46d0-b471-7132368e2371)
+file: https://github.com/aashishsec/WriteUps/blob/main/CTFs/2024/HacksCTF/files/referral_letter.txt
+Added after the challange:
+- go to this website to decode the test (https://www.spammimic.com/decode.shtml)
+- Flag is
+```bash
+hacks{that_was_easY}
+```
 
 ##  credit-stealer 
 ```bash
