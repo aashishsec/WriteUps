@@ -42,13 +42,27 @@ file_challenge.cad: XZ compressed data, checksum CRC64
 
 What was the last (Arrival) location of this container?
 
+![container](https://github.com/aashishsec/WriteUps/assets/65489287/bc41fb7b-fb43-4323-8940-1b549df80d6d)
+
+
+
 ### guesswhereami
 
 Find the precise location. 202.139.14.137. hint: use shodan
 
+![image](https://github.com/aashishsec/WriteUps/assets/65489287/be526340-f987-40af-9bdf-e0ce64c08f5a)
+
+```bash
+hacks{Sydney}
+```
+
+
 ###  india
 
 can you find out the river located nearby this shop...Enclose it within hacks{}
+
+![chips](https://github.com/aashishsec/WriteUps/assets/65489287/c12c43cc-addd-4fe6-a92a-db08153a48c5)
+
 
 
 ## Forensics
